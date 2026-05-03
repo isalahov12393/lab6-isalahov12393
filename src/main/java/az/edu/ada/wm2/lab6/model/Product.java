@@ -1,7 +1,7 @@
 package az.edu.ada.wm2.lab6.model;
 
 import jakarta.persistence.*;
-import jdk.jfr.Category;
+import az.edu.ada.wm2.lab6.model.Category;
 import lombok.*;
 import java.util.ArrayList;
 import java.util.List;
